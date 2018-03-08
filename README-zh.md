@@ -201,18 +201,18 @@
 + [Remix](https://remix.ethereum.org/) - 可以在浏览器上建立测试网络
 
 ### 以太钱包
-+ [Releases · ethereum/mist · GitHub](https://github.com/ethereum/mist/releases) Ethereum Wallet，可选用Light Client方式同步
-+ [Ethereum Wallet](https://wallet.ethereum.org/) 在线Ethereum Wallet，配合MetaMask使用
-+ [MyCrypto.com](https://mycrypto.com/) 在线钱包，最好配合MetaMask使用
-+ [MetaMask](https://metamask.io/) 浏览器插件，方便管理账户
-+ [Cipher Browser - Mobile Ethereum Wallet and Web3 Dapp Browser](https://www.cipherbrowser.com/) 手机Ethereum钱包，可以存放ERC20 Token，可以使用dapp
-+ [imToken | Your First Smart Digital Wallet](https://token.im/) 手机Ethereum钱包，可存放各种ERC20 Token
++ [Releases · ethereum/mist · GitHub](https://github.com/ethereum/mist/releases) - Ethereum Wallet，可选用Light Client方式同步
++ [Ethereum Wallet](https://wallet.ethereum.org/) - 在线Ethereum Wallet，配合MetaMask使用
++ [MyCrypto.com](https://mycrypto.com/) - 在线钱包，最好配合MetaMask使用
++ [MetaMask](https://metamask.io/) - 浏览器插件，方便管理账户
++ [Cipher Browser - Mobile Ethereum Wallet and Web3 Dapp Browser](https://www.cipherbrowser.com/) - 手机Ethereum钱包，可以存放ERC20 Token，可以使用dapp
++ [imToken | Your First Smart Digital Wallet](https://token.im/) - 手机Ethereum钱包，可存放各种ERC20 Token
 + [Toshi](https://www.toshi.org/)
 + [Status | The Mobile Ethereum Client](https://status.im/)
-+ https://trustwalletapp.com/  dapp钱包
++ https://trustwalletapp.com/  - dapp钱包
 
-+ https://coinsutra.com/best-etherum-wallets/  以太钱包汇总
-+ https://coinsutra.com/best-erc20-tokens-wallets/ 钱包评测
++ https://coinsutra.com/best-etherum-wallets/  - 以太钱包汇总
++ https://coinsutra.com/best-erc20-tokens-wallets/ - 钱包评测
 
 ### DAPP
 + [The Ðapp Daily-Ethereum ecosystem updates from Sourcerers](https://dappdaily.com/)
